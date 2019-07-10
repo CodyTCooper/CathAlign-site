@@ -2,9 +2,7 @@
 title: Snippet 2
 date: 2018-08-16T12:01+02:00
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  [Snippet 2 headline blurb.]
 image: /images/uploads/cathalign_snippet_2.png
 ---
 
