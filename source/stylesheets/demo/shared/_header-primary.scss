@@ -8,8 +8,12 @@
   .logo {
     //width: 173px;
     //height: 80px;
-	width: 80px;
-	height: 25px;
+	a {
+      display: inline-block;
+	  width: 50%;
+	  height: 50%;
+      padding: 26px 30px;
+    }
   }
 
   ul {
