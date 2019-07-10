@@ -4,7 +4,7 @@ date: 2018-08-18T09:01+02:00
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
   Mountain coffee beans in our store next week.
-image: /images/uploads/cathalign_info.png
+image: /images/uploads/cathalign_snippet_3.png
 ---
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
