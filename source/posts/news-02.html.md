@@ -1,8 +1,8 @@
 ---
-title: Snippet 2
+title: News Title 2
 date: 2018-08-16T12:01+02:00
 description: >-
-  [Snippet 2 headline blurb.]
+  [Headline blurb.]
 image: /images/uploads/cathalign_snippet_2.png
 ---
 
