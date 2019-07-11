@@ -2,5 +2,4 @@ nav_items:
   - {label: 'Home', path: '/'}
   - {label: 'Product', path: '/products/'}
   - {label: 'News', path: '/news'}
-  - {label: "Team', path: '/team'}
 
