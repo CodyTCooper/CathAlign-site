@@ -3,7 +3,7 @@ title: News Title 1
 date: 2018-08-14T12:01+02:00
 description: >-
   [Headline blurb.]
-image: /images/uploads/cathalign_snippet_1.png
+image: /images/uploads/news-01.png
 ---
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.

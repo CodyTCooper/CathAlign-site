@@ -3,7 +3,7 @@ title: News Title 3
 date: 2018-08-18T09:01+02:00
 description: >-
   [Headline blurb.]
-image: /images/uploads/cathalign_snippet_3.png
+image: /images/uploads/news-03.png
 ---
 
 [Intro 0a]
