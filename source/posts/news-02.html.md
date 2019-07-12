@@ -1,4 +1,4 @@
-﻿---
+---
 title: CathAlign Selected for 2019 Hollomon Health Innovation Challenge Finals
 date: 2019-02-21T12:01+02:00
 description: >-
@@ -6,6 +6,6 @@ description: >-
 image: /images/uploads/news-02.png
 ---
 
-CathAlign is selected as one of the twenty-two finalist teams to compete for up to $15,000 in startup funding awards at the competition hosted by Foster School's Buerk Center for Entrepreneurship at the University of Washington.
+CathAlign competes as one of the twenty-two finalist teams to compete for up to $15,000 in startup funding awards at the competition hosted by Foster School's Buerk Center for Entrepreneurship at the University of Washington.
 
 https://blog.foster.uw.edu/2019-hollomon-health-innovation-challenge-selection/
