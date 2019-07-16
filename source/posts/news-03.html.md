@@ -6,6 +6,8 @@ description: >-
 image: /images/uploads/news-03.png
 ---
 
+https://eih.uw.edu/projects
+
 [Intro 0a]
 
 [Intro 0b]
