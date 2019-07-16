@@ -1,5 +1,5 @@
 ---
-title: CathAlign Selected for 2019 Hollomon Health Innovation Challenge Finals
+title: CathAlign selected for 2019 Hollomon Health Innovation Challenge finals
 date: 2019-02-21T12:01+02:00
 description: >-
   [Headline blurb.]

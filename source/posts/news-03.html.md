@@ -1,5 +1,5 @@
 ---
-title: News Title 3
+title: CathAlign completes year-long EIH program
 date: 2018-08-18T09:01+02:00
 description: >-
   [Headline blurb.]
