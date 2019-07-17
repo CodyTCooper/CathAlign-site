@@ -2,7 +2,7 @@
 title: CathAlign selected for 2019 Hollomon Health Innovation Challenge finals
 date: 2019-02-21T12:01+02:00
 description: >-
-  " "
+  Hosted by UW Foster School's Buerk Center for Entrepreneurship
 image: /images/uploads/news-02.jpg
 ---
 
