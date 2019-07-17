@@ -8,7 +8,7 @@ public_folder: /images/uploads
 
 collections:
   #yaml middleman data example
-  - name: team
+  - name: product
     label: Team
     format: yml
     extension: yml
