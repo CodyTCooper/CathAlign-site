@@ -16,14 +16,14 @@ section.homepage-story
 section.homepage-products.products
   .container
     h2
-      | Our Product
+      | Team
     .row
       //product is structured: ['filename', 'data']
       //sort by newest product
       - data.products.sort {|a,b| b[1].date <=> a[1].date}.first(3).each do | product |
 
         //to get the actual data:
-        = partial 'partials/products/product', locals: {product: product[1]}
+        = partial 'partials/team/product', locals: {product: product[1]}
 
 section.homepage-news.news
   .container
