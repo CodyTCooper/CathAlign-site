@@ -8,23 +8,4 @@ image: /images/uploads/news-03.png
 
 https://eih.uw.edu/projects
 
-[Intro 0a]
-
-[Intro 0b]
-
-## Heading 1
-
-[Section 1a]
-
->[Quote / Excerpt]
-
-[Section 1b]
-
-## Heading 2
-
-[Section 2a]
-
-[Section 2b]
-
-[Section 2c]
 
